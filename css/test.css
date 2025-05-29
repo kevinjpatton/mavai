@@ -110,7 +110,7 @@ table, th, td {  /* This will apply the font to the entire table */
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);  /* Shadow properties */
 }
 /* Page-Specific Hero Image Styles */
-.phil_1010-page {
+.phil_bookclub-page {
   background-image: url("/heroimage-bookclub-s-o-c-i-a-l-c-u-t.jpg");
 }
 /* Content Image */
